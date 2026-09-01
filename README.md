@@ -1,4 +1,5 @@
 # Telegram Group Moderator Bot 🤖
+![Bot Demo](demo.png)
 
 A Python Telegram bot for automatic group moderation.
 
@@ -40,7 +41,7 @@ telegram-group-moderator-bot/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/shaqayeqNz/telegram-group-moderator-bot.git
+git clone https://github.com/shaqayeqN/telegram-group-moderator-bot.git
 cd telegram-group-moderator-bot
 ```
 
